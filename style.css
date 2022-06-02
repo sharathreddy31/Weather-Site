@@ -45,7 +45,7 @@ button {
     background: #7c7c7c2b;
     color: white;
     cursor: pointer;
-    transition: 0.2s
+    transition: 0.2s;
 }
 
 input.search-bar {
